@@ -1,10 +1,10 @@
 ---
 name: chuhai-wiki
 version: 1.0.0
-description: 出海赚美金结构化知识库 - 723个项目卡片，10大类型分类，可检索可调用
+description: 出海赚美金结构化知识库 - 1000+案例，10大类型分类，可检索可调用
 author: NEX
-source: liezhe.com
-cards: 723
+source: 全网公开信息
+cards: 1000+
 types: digital-product,affiliate,service,website,culture-gap,platform-monetize,ecommerce,passive-income,side-hustle,other
 ---
 
@@ -36,18 +36,18 @@ types: digital-product,affiliate,service,website,culture-gap,platform-monetize,e
 
 ## 10大类型
 
-| 类型 | 数量 | 说明 |
-|------|------|------|
-| digital-product | 46 | Etsy/Gumroad卖模板、Printable |
-| affiliate | 100 | ClickBank/Pinterest/Amazon联盟 |
-| service | 47 | Fiverr/Upwork接单 |
-| website | 378 | Google SEO+Adsense独立站 |
-| culture-gap | 5 | 麻将/中医/推拿文化差 |
-| platform-monetize | 87 | YouTube/TikTok/Substack变现 |
-| ecommerce | 24 | Dropshipping/Printify |
-| passive-income | 9 | Adsense/CPM/Web3 |
-| side-hustle | 24 | 问卷/标注/微任务 |
-| other | 3 | |
+| 类型 | 说明 |
+|------|------|
+| digital-product | Etsy/Gumroad卖模板、Printable |
+| affiliate | ClickBank/Pinterest/Amazon联盟 |
+| service | Fiverr/Upwork接单 |
+| website | Google SEO+Adsense独立站 |
+| culture-gap | 麻将/中医/推拿文化差 |
+| platform-monetize | YouTube/TikTok/Substack变现 |
+| ecommerce | Dropshipping/Printify |
+| passive-income | Adsense/CPM/Web3 |
+| side-hustle | 问卷/标注/微任务 |
+| other | |
 
 ## 调用方式
 
