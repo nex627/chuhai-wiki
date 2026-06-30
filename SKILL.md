@@ -23,7 +23,7 @@ types: digital-product,affiliate,service,website,culture-gap,platform-monetize,e
 每个项目卡片包含：
 - title: 项目标题
 - slug: URL标识
-- url: 原文链接
+- url: 公开信息
 - date: 日期
 - type_primary: 主类型（10选1）
 - type_secondary: 子类型
